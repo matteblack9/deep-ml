@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T07:42:05.688Z",
+  "generated_at": "2026-09-25T07:59:23.119Z",
   "items": {
     "problem:1201": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-09-25T07:42:01.564Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:1202": {
+      "kind": "problem",
+      "id": "1202",
+      "title": "Vector Addition",
+      "difficulty": "easy",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1202",
+      "path": "problems/1202-vector-addition",
+      "first_solved_at": "2026-09-25T07:59:22.116Z",
+      "last_pushed_at": "2026-09-25T07:59:22.116Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
