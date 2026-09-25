@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**5** solved · 5 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Grid-Stride Loop: Square Each Element](https://www.deep-ml.com/problems/1205) | easy | 2026-09-25 | [solution](problems/1205-grid-stride-loop-square-each-element) |
 | [ReLU Activation](https://www.deep-ml.com/problems/1204) | easy | 2026-09-25 | [solution](problems/1204-relu-activation) |
 | [Scalar Multiply (a * x)](https://www.deep-ml.com/problems/1203) | easy | 2026-09-25 | [solution](problems/1203-scalar-multiply-a-x) |
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-09-25 | [solution](problems/1202-vector-addition) |
