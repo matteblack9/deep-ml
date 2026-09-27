@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-09-25 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
 | [Add Two Matrices (2D Grid)](https://www.deep-ml.com/problems/1206) | medium | 2026-09-25 | [solution](problems/1206-add-two-matrices-2d-grid) |
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-09-27 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
+| [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-27 | [solution](problems/1207-parallel-reduction-array-sum) |
 
 ---
 
