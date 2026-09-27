@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-09-25 | [solution](problems/1202-vector-addition) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-09-25 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
 | [Add Two Matrices (2D Grid)](https://www.deep-ml.com/problems/1206) | medium | 2026-09-25 | [solution](problems/1206-add-two-matrices-2d-grid) |
+| [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-27 | [solution](problems/1208-dot-product) |
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-09-27 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
 | [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-27 | [solution](problems/1207-parallel-reduction-array-sum) |
 | [Warp Shuffle Reduction](https://www.deep-ml.com/problems/1312) | medium | 2026-09-27 | [solution](problems/1312-warp-shuffle-reduction) |

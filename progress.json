@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:34:33.545Z",
+  "generated_at": "2026-09-27T14:04:54.849Z",
   "items": {
     "problem:1201": {
       "kind": "problem",
@@ -117,6 +117,19 @@
       "last_pushed_at": "2026-09-27T13:34:32.948Z",
       "language": "python",
       "lines": 59
+    },
+    "problem:1208": {
+      "kind": "problem",
+      "id": "1208",
+      "title": "Dot Product",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1208",
+      "path": "problems/1208-dot-product",
+      "first_solved_at": "2026-09-27T14:04:53.799Z",
+      "last_pushed_at": "2026-09-27T14:04:53.799Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
