@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:04:54.849Z",
+  "generated_at": "2026-09-27T14:25:44.096Z",
   "items": {
     "problem:1201": {
       "kind": "problem",
@@ -130,6 +130,19 @@
       "last_pushed_at": "2026-09-27T14:04:53.799Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:1311": {
+      "kind": "problem",
+      "id": "1311",
+      "title": "Histogram with Atomic Adds",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1311",
+      "path": "problems/1311-histogram-with-atomic-adds",
+      "first_solved_at": "2026-09-27T14:25:43.385Z",
+      "last_pushed_at": "2026-09-27T14:25:43.385Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
