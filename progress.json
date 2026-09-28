@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:25:44.096Z",
+  "generated_at": "2026-09-28T11:57:49.487Z",
   "items": {
     "problem:1201": {
       "kind": "problem",
@@ -143,6 +143,19 @@
       "last_pushed_at": "2026-09-27T14:25:43.385Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:1313": {
+      "kind": "problem",
+      "id": "1313",
+      "title": "Inclusive Prefix Scan",
+      "difficulty": "hard",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1313",
+      "path": "problems/1313-inclusive-prefix-scan",
+      "first_solved_at": "2026-09-28T11:57:48.621Z",
+      "last_pushed_at": "2026-09-28T11:57:48.621Z",
+      "language": "python",
+      "lines": 74
     }
   }
 }
