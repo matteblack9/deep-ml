@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:57:49.487Z",
+  "generated_at": "2026-09-28T17:07:29.287Z",
   "items": {
     "problem:1201": {
       "kind": "problem",
@@ -156,6 +156,19 @@
       "last_pushed_at": "2026-09-28T11:57:48.621Z",
       "language": "python",
       "lines": 74
+    },
+    "problem:1316": {
+      "kind": "problem",
+      "id": "1316",
+      "title": "Stream Compaction",
+      "difficulty": "hard",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1316",
+      "path": "problems/1316-stream-compaction",
+      "first_solved_at": "2026-09-28T17:07:28.260Z",
+      "last_pushed_at": "2026-09-28T17:07:28.260Z",
+      "language": "python",
+      "lines": 68
     }
   }
 }
