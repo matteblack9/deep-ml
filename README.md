@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**14** solved · 14 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-27 | [solution](problems/1207-parallel-reduction-array-sum) |
 | [Warp Shuffle Reduction](https://www.deep-ml.com/problems/1312) | medium | 2026-09-27 | [solution](problems/1312-warp-shuffle-reduction) |
 | [Inclusive Prefix Scan](https://www.deep-ml.com/problems/1313) | hard | 2026-09-28 | [solution](problems/1313-inclusive-prefix-scan) |
+| [Segmented Reduction](https://www.deep-ml.com/problems/1317) | hard | 2026-09-29 | [solution](problems/1317-segmented-reduction) |
 | [Stream Compaction](https://www.deep-ml.com/problems/1316) | hard | 2026-09-28 | [solution](problems/1316-stream-compaction) |
 
 ---
