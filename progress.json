@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:57:54.996Z",
+  "generated_at": "2026-09-29T08:11:20.068Z",
   "items": {
     "problem:1201": {
       "kind": "problem",
@@ -179,9 +179,9 @@
       "url": "https://www.deep-ml.com/problems/1317",
       "path": "problems/1317-segmented-reduction",
       "first_solved_at": "2026-09-29T07:57:53.782Z",
-      "last_pushed_at": "2026-09-29T07:57:53.782Z",
+      "last_pushed_at": "2026-09-29T08:11:19.253Z",
       "language": "python",
-      "lines": 61
+      "lines": 81
     }
   }
 }

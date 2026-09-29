@@ -7,6 +7,7 @@ __global__ void segmentedSum(const float* values, const int* flags, float* outpu
 
     int tid = threadIdx.x;
     flagSums[tid] = flags[tid];
+    valueSums[tid] = values[tid];
 
     __syncthreads();
 
@@ -24,9 +25,28 @@ __global__ void segmentedSum(const float* values, const int* flags, float* outpu
         __syncthreads();
     }
 
-    int groupNum = flagSums[tid];
+    for (int offset = 1; offset < n; offset <<= 1) {
+        float add = 0.0f;
+        bool isSameSeg = false;
 
-    atomicAdd(&output[groupNum - 1], values[tid]);
+        if (tid >= offset) {
+            add = valueSums[tid - offset];
+            isSameSeg = (flagSums[tid - offset] == flagSums[tid]);
+        }
+
+        __syncthreads();
+
+        if (tid >= offset) {
+            if (isSameSeg) valueSums[tid] += add;
+        }
+
+        __syncthreads();
+    }
+
+    bool isSegmentEnd = (tid == n - 1) || (flags[tid + 1] == 1);
+
+    if (isSegmentEnd)
+        output[flagSums[tid] - 1] = valueSums[tid]; 
 
 // [1, 0, 0, 1, 0, 1]
 // [0, 1, 1, 1, 2, 2]
