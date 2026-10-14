@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**17** solved · 17 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Coalesced Matrix Transpose](https://www.deep-ml.com/problems/1309) | medium | 2026-10-14 | [solution](problems/1309-coalesced-matrix-transpose) |
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-27 | [solution](problems/1208-dot-product) |
 | [Histogram with Atomic Adds](https://www.deep-ml.com/problems/1311) | medium | 2026-09-27 | [solution](problems/1311-histogram-with-atomic-adds) |
+| [Naive Matrix Multiplication](https://www.deep-ml.com/problems/1209) | medium | 2026-10-14 | [solution](problems/1209-naive-matrix-multiplication) |
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-09-27 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
 | [Parallel Reduction: Array Sum](https://www.deep-ml.com/problems/1207) | medium | 2026-09-27 | [solution](problems/1207-parallel-reduction-array-sum) |
 | [Warp Shuffle Reduction](https://www.deep-ml.com/problems/1312) | medium | 2026-09-27 | [solution](problems/1312-warp-shuffle-reduction) |

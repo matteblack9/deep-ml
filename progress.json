@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:20:19.382Z",
+  "generated_at": "2026-10-14T14:56:02.126Z",
   "items": {
     "problem:1201": {
       "kind": "problem",
@@ -208,6 +208,19 @@
       "last_pushed_at": "2026-10-14T13:20:18.446Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:1209": {
+      "kind": "problem",
+      "id": "1209",
+      "title": "Naive Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Cuda",
+      "url": "https://www.deep-ml.com/problems/1209",
+      "path": "problems/1209-naive-matrix-multiplication",
+      "first_solved_at": "2026-10-14T14:55:59.842Z",
+      "last_pushed_at": "2026-10-14T14:55:59.842Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }
