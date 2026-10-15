@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 18 problems · 0 labs · 0 math
+**19** solved · 19 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiply (a * x)](https://www.deep-ml.com/problems/1203) | easy | 2026-09-25 | [solution](problems/1203-scalar-multiply-a-x) |
 | [Vector Addition](https://www.deep-ml.com/problems/1202) | easy | 2026-09-25 | [solution](problems/1202-vector-addition) |
 | [Your First CUDA Kernel: Thread Index](https://www.deep-ml.com/problems/1201) | easy | 2026-09-25 | [solution](problems/1201-your-first-cuda-kernel-thread-index) |
+| [1D Convolution with Shared-Memory Halo](https://www.deep-ml.com/problems/1310) | medium | 2026-10-15 | [solution](problems/1310-1d-convolution-with-shared-memory-halo) |
 | [Add Two Matrices (2D Grid)](https://www.deep-ml.com/problems/1206) | medium | 2026-09-25 | [solution](problems/1206-add-two-matrices-2d-grid) |
 | [Coalesced Matrix Transpose](https://www.deep-ml.com/problems/1309) | medium | 2026-10-14 | [solution](problems/1309-coalesced-matrix-transpose) |
 | [Dot Product](https://www.deep-ml.com/problems/1208) | medium | 2026-09-27 | [solution](problems/1208-dot-product) |
